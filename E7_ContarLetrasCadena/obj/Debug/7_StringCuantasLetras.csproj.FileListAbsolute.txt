@@ -1,0 +1,7 @@
+C:\Users\Yesica Moreno\source\ejercicioscaleb\7_StringCuantasLetras\7_StringCuantasLetras\bin\Debug\7_StringCuantasLetras.exe.config
+C:\Users\Yesica Moreno\source\ejercicioscaleb\7_StringCuantasLetras\7_StringCuantasLetras\bin\Debug\7_StringCuantasLetras.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\7_StringCuantasLetras\7_StringCuantasLetras\bin\Debug\7_StringCuantasLetras.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\7_StringCuantasLetras\7_StringCuantasLetras\obj\Debug\7_StringCuantasLetras.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\7_StringCuantasLetras\7_StringCuantasLetras\obj\Debug\7_StringCuantasLetras.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\7_StringCuantasLetras\7_StringCuantasLetras\obj\Debug\7_StringCuantasLetras.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\7_StringCuantasLetras\7_StringCuantasLetras\obj\Debug\7_StringCuantasLetras.pdb
